@@ -1,0 +1,34 @@
+========================================================================
+ Ohio School Districts
+------------------------------------------------------------------------
+ https://koordinates.com/layer/97252-ohio-school-districts/
+========================================================================
+From: State of Ohio
+
+Description:
+  This layer is sourced from
+  [gis.dot.state.oh.us](https://gis.dot.state.oh.us/arcgis/rest/services/TIMS_WFS/Boundaries_WFS/MapServer?f=json).
+  
+  © ODOT
+
+Region: Ohio
+
+CRS: WGS 84
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 13 Sep 2018
+- updated with new data on 02 Jan 2023
+- 304 invalid geometries fixed at import time 
+    (see https://koordinates.com/layer/97252-ohio-school-districts/history/)
+- reprojected from WGS 84 / Pseudo-Mercator to WGS 84
+- converted by Koordinates to Shapefile on 13 Jan 2024 (reference #3371971)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
