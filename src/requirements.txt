@@ -1,0 +1,7 @@
+pandas
+numpy
+selenium
+pyyaml
+lxml
+googlemaps
+spacy

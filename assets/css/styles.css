@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Custom button background, font, and outline color */
+.custom-dropdown .btn {
+    background-color: hsla(0, 0%, 100%, 0) !important;  /* Set the button background color (e.g., blue) */
+    font-weight: 700;
+    color: #3a3838 !important;  /* Set the font color (e.g., white) */
+    outline: none; /* Remove default outline */
+    border: 1px solid #3f3f3f !important;  /* Set the border/outline color (e.g., darker blue) */
+    border-radius: 3px;  /* Optional: Set border radius */
+    /* padding: 10px 20px;  /* Optional: Add padding for button size */
+    font-size: 16px;  /* Optional: Set font size */
+}
+
+/* Custom hover effect for dropdown menu */
+.custom-dropdown:hover .dropdown-toggle {
+    background-color: #c1e0f77e !important;  /* Change background color on hover */
+    /* color: white !important;  /* Change text color on hover */
+    /* outline: none;  Remove default outline */
+    /* border: 2px solid #343535;  Custom border color */
+    /* border-radius: 4px;  Optional: Set border radius */ 
+}
+
+/* Example of other CSS customization */
+body {
+    background-color: #f8f9fa;  /* Set a light background color */
+}
+
+h1 {
+    color: #333333;  /* Change heading color */
+    text-align: center;  /* Center headings */
+}
